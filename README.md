@@ -29,7 +29,7 @@ and you will get the parameters/coordiantes as shown below.
 /evora_map/central_corridor/row/9
 ```
 
-To get actual coordiantes, one must run the following command to get the latitude and longitude of one point
+To get actual coordinates, one must run the following command to get the latitude and longitude of one point
 
 ```
 $ rosparam get /evora_map/right_panels/row/9/column/9
