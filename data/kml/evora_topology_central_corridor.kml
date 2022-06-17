@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1590">
+        <Style id="1591">
+            <IconStyle id="1592">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.3</scale>
+                <heading>0</heading>
+                <Icon id="1593">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>/home/rodrigo/ros_ws/src/evora_topological_map/data/csv/evora_topology_central_corridor</name>
+        <Placemark id="1595">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1594">
+                <coordinates>-7.96171742183,38.5417790938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1597">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1596">
+                <coordinates>-7.96171742183,38.5416937309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1599">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1598">
+                <coordinates>-7.96171742183,38.5416088749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1601">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1600">
+                <coordinates>-7.96171742183,38.5415191503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1603">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1602">
+                <coordinates>-7.96171742183,38.5414315991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1605">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1604">
+                <coordinates>-7.96171742183,38.541342999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1607">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1606">
+                <coordinates>-7.96171742183,38.541252301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1609">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1608">
+                <coordinates>-7.96171742183,38.5411647478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1611">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1610">
+                <coordinates>-7.96171742183,38.5410766232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1613">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1612">
+                <coordinates>-7.96171742183,38.5409864251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1615">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1614">
+                <coordinates>-7.96171742183,38.540896225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1617">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1616">
+                <coordinates>-7.96171742183,38.5408123187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1619">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1618">
+                <coordinates>-7.96171742183,38.5407210758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1621">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1620">
+                <coordinates>-7.96171742183,38.5406318737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1623">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1622">
+                <coordinates>-7.96171742183,38.540544247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1625">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1624">
+                <coordinates>-7.96171742183,38.5404561224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1627">
+            <styleUrl>#1591</styleUrl>
+            <Point id="1626">
+                <coordinates>-7.96171742183,38.5403690713,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

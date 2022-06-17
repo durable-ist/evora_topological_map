@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="evora_map" pkg="evora_topological_map" type="evoraMap.py"  output="log"></node>
+</launch>
