@@ -2,10 +2,11 @@
 from gps_class import GPSVis
 import simplekml as skml
 import pandas as pd
+import rospkg
 
 class FilesPath:
     def __init__(self):
-        self.package_path = '/home/rodrigo/ros_ws/src/evora_topological_map/'
+        self.package_path = pkg_path + '/'
         self.csv_path = 'data/csv/'
         self.kml_path = 'data/kml/'
 
@@ -20,6 +21,9 @@ class FilesPath:
         self.data_file_write_right = 'evora_topology_right_panels.csv'
         self.data_file_write_central = 'evora_topology_central_corridor.csv'
 
+
+rp = rospkg.RosPack()
+pkg_path = rp.get_path('evora_topological_map')
 
 current_paths = FilesPath()
 

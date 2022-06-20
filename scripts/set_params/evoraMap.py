@@ -2,6 +2,7 @@
 
 import rospy, sys
 import pandas as pd
+import rospkg
 
 # Main function
 if __name__ == '__main__':
@@ -10,7 +11,11 @@ if __name__ == '__main__':
     # READ FILES AS ARGUMENTS
     # csv_file_path = sys.argv[1]
     
-    csv_file_path = '/home/rodrigo/ros_ws/src/evora_topological_map/data/csv/'
+    rp = rospkg.RosPack()
+    pkg_path = rp.get_path('evora_topological_map')
+    rospy.loginfo(pkg_path)
+
+    csv_file_path = pkg_path + '/data/csv/'
     csv_file_left_panels = 'evora_topology_left_panels.csv'
     csv_file_right_panels = 'evora_topology_right_panels.csv'
     csv_file_central_corridor = 'evora_topology_central_corridor.csv'
